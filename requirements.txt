@@ -37,7 +37,7 @@ efficientnet==1.0.0
 exceptiongroup==1.2.2
 executing==2.1.0
 fastjsonschema==2.20.0
-filelock==3.16.0
+filelock==3.20.1
 fiona==1.9.6
 flatbuffers==24.3.25
 folium==0.17.0
